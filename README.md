@@ -1,0 +1,2 @@
+# PerplexityVoiceModeCaseStudy
+PerplexityVoiceMode-Limitation
