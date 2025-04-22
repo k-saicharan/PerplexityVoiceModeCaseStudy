@@ -39,7 +39,7 @@ Add a **"Resume in Voice Mode"** button in the library's archived conversations,
 - **Frontend**: Update the library UI to include a "Resume in Voice Mode" button for each archived conversation.
 - **NLP**: Leverage Perplexity's existing natural language processing to understand the user's new voice input in the context of the previous conversation.
 - **Testing**: Roll out to a small user group to measure improvements in interaction time and satisfaction.
-
+![UI Mockup](ui_mockup.png)  
 *The "Resume in Voice Mode" button is added to the right of each conversation, styled to match Perplexity's design language with a blue color and microphone icon.*
 
 ## User Story: A Seamless Experience
