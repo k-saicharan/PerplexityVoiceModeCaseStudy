@@ -30,7 +30,7 @@ Add a **"Resume in Voice Mode"** button in the library's archived conversations,
 ## High-Level Implementation Plan
 
 - **Backend**: Store conversation metadata in a database (e.g., conversation_id, last_topic, user_id, timestamp). Example SQL to retrieve context:
-    ```
+    ```sql
     SELECT conversation_id, last_topic, user_id
     FROM archived_conversations
     WHERE user_id = '123'
