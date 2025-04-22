@@ -1,5 +1,4 @@
-# PerplexityVoiceModeCaseStudy
-PerplexityVoiceMode-Limitation
+
 # Perplexity AI Voice Mode Enhancement Case Study
 
 This project analyzes a user experience limitation in Perplexity AI’s voice-to-voice mode and proposes a solution to improve efficiency and engagement. Based on my personal usage, I identified that archived voice conversations cannot be resumed in voice mode, forcing users to type or restart, which disrupts flow. I propose adding a “Resume in Voice Mode” button to seamlessly continue conversations.
