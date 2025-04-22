@@ -18,7 +18,7 @@ FROM user_interactions
 WHERE resumed = 'yes'
 GROUP BY mode;
 
-## Comparative Insight
+# Comparative Insight
 
 This limitation isn't universal—**ChatGPT's Advanced Voice Mode** allows users to resume voice conversations seamlessly, even after closing and reopening the app, by storing conversation metadata and using a multimodal model (GPT-4o) for context retention. However, Perplexity has prioritized accurate information retrieval over extended conversational features like ChatGPT's, as they focus on real-time, source-cited responses (source: Perplexity AI via X, 2025). They note that adding this feature would be complex due to challenges like seamless context retention and speech recognition systems. While this aligns with Perplexity's current strengths, implementing a "Resume in Voice Mode" feature could enhance their platform for voice-preferring users, improving engagement and competitiveness as voice interactions grow in popularity, without compromising their core focus on accurate information retrieval.
 
